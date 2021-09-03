@@ -1,7 +1,7 @@
 # File converter for Discord stickers
 
 ## History
-One day I wanted to add new stickers to my Discord server, so I downloaded the stickers that I use on WhatsApp from my browser and the ones I use there from Telegram, and they were downloaded in [.webp](https://en.wikipedia.org / wiki / WebP) format, and when trying to upload them to Discord, it did not recognize it as a valid format, so I looked for an online convert and while the file was uploaded, I thought that this task could be automated with Python, so I decided to create this little program
+One day I wanted to add new stickers to my Discord server, so I downloaded the stickers that I use on WhatsApp from my browser and the ones I use there from Telegram, and they were downloaded in [.webp](https://en.wikipedia.org/wiki/WebP) format, and when trying to upload them to Discord, it did not recognize it as a valid format, so I looked for an online convert and while the file was uploaded, I thought that this task could be automated with Python, so I decided to create this little program
 
 
 ## Requirements
